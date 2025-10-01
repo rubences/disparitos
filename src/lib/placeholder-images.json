@@ -1,3 +1,16 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "gameOver",
+      "description": "A game over screen with a skull and crossbones in space.",
+      "imageUrl": "https://images.unsplash.com/photo-1566168412756-04478b885515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxza3VsbCUyMHNwYWNlfGVufDB8fHx8MTc1OTMzNTQ4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skull space"
+    },
+    {
+      "id": "youWin",
+      "description": "A victory screen showing fireworks and celebration.",
+      "imageUrl": "https://images.unsplash.com/photo-1684730519133-4896ffcf555c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjZWxlYnJhdGlvbiUyMGZpcmV3b3Jrc3xlbnwwfHx8fDE3NTkzMzU0ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "celebration fireworks"
+    }
+  ]
 }
